@@ -1,4 +1,4 @@
-# Hi there 👋, I'm [Ayham Hammoud]
+# Hi there 👋, I'm Ayham Hammoud
 
 ### 🎓 Software Engineering Student @ Fırat University | Passionate Developer
 
