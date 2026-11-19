@@ -7,7 +7,7 @@ I am a Software Engineering student currently diving deep into **Algorithms**, *
 ---
 
 ### 🚀 About Me
-- 🔭 I’m currently studying: **Algorithms & Programming II**
+- 🔭 I’m currently studying: **Algorithms & Programming **
 - 🌱 I’m currently learning: **Java, Python, and OOP principles**
 - 💡 Exploring: The intersection of **Software Engineering**, **AI**, and **Problem Solving**
 - 💬 Ask me about: My university projects and my learning journey!
